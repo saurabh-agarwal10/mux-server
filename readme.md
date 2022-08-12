@@ -1,0 +1,1 @@
+This is a project built in Go using mux, zap and a REST architecture.
